@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Eric-Oyervides.github.io/Practice-Project-Conference-Expense-Planner",
   "scripts": {
     "dev": "vite",
     "predeploy":"npm run build",
